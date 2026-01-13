@@ -1,4 +1,4 @@
-❤️ Machine Learning–Based Heart Disease Risk Prediction System
+❤️ Machine Learning–Driven Cardiovascular Risk Assessment Using Patient Clinical Records
 
 A Machine Learning–Based Clinical Risk Prediction Web Application
 
